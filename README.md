@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @JenniferM-BShulyak
 - 👀 I’m interested in data analytics and secondary education.
-- 🌱 I’m currently learning Python
+- 🌱 I’m currently learning Tableau and Power BI. 
 - 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 📫 Reach me on LinkedIn! https://www.linkedin.com/in/jennifer-shulyak/
 
 <!---
 JenniferM-BShulyak/JenniferM-BShulyak is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.

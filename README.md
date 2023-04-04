@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @JenniferM-BShulyak
 - 👀 I’m interested in data analytics and secondary education.
-- 🌱 I’m currently learning Tableau and Power BI. 
+- 🌱 I’m currently learning machine learning and big data. 
 - 💞️ I’m looking to collaborate on ...
 - 📫 Reach me on LinkedIn! https://www.linkedin.com/in/jennifer-shulyak/
 
